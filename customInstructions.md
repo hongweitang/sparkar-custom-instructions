@@ -1,3 +1,9 @@
+## List of avaiable custom instructions
+
+Latest Version: `10.05.2020`
+
+---
+
 - This effect uses flashing images, Token: `effect_uses_flashing_images`
 - This effect uses flashing lights, Token: `effect_uses_flashing_lights`
 - Try this effect with headphones,  Token: `try_with_headphones`
@@ -44,7 +50,7 @@
 - Tap and hold, Token: `touch_hold`
 - Try it with friends, Token: `try_with_friends`
 - Switch camera to see more, Token: `flip_camera_to_see_more`
-- Tilt your head to the side, Token: `tilt head`
+- Tilt your head to the side, Token: `tilt_head`
 - Blink your eyes, Token: `blink_eyes`
 - Look around through your camera, Token: `look_around`
 - Move closer, Token: `move_camera_closer`
@@ -57,7 +63,7 @@
 - Talk to change your voice, Token: `talk_to_change_voice`
 - Shake your head, Token: `shake_head`
 - Nod your head, Token: `nod_head`
-- Raise your eyebrows, Token: `raise eyebrows`
+- Raise your eyebrows, Token: `raise_eyebrows`
 - Turn your sound on, Token: `effect_include_sound`
-- Find a face, Token: `findface`
+- Find a face, Token: `find_face`
 - Open your mouth, Token: `open_mouth`
